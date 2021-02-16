@@ -13,7 +13,7 @@ Kiali:
 http://37.18.121.238/kiali/
 
 Grafana:
-http://37.230.195.90/
+http://37.230.195.90/d/vu8e0VWZk/istio-performance-dashboard?orgId=1&refresh=10s
 
 Jaeger:
 http://37.18.121.146/jaeger/search
