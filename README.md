@@ -6,7 +6,7 @@
 ## Доступы и контакты:
 
 
-Kubernates Dashboard:
+Kubernates Dashboard (требуется разрешить работы с серверами с самоподписанными сертификатами ):
 https://37.230.195.15/#/login
 
 Kiali:
