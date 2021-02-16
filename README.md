@@ -69,3 +69,8 @@ eyJhbGciOiJSUzI1NiIsImtpZCI6IjFOVm9YVkl6ZHlXOWJjZDlzQTR4SGZWaUpuQl9Pd1BsdlJydUpP
 
 
 
+# Что можно будет еще посмотреть:
+
+## Готовые базовые компоненты(мапинги, валидаторы, адаптеры и пр.), примеры интеграции 
+
+
