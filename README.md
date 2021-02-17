@@ -63,6 +63,7 @@ eyJhbGciOiJSUzI1NiIsImtpZCI6IjFOVm9YVkl6ZHlXOWJjZDlzQTR4SGZWaUpuQl9Pd1BsdlJydUpP
 
 ## SberSynapse Простой сервис и его версии:
 
+
 ## SberSynapse Сервис по работе с kafka:
 
 ## SberSynapse Сложный сервис:
