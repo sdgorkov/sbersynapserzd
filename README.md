@@ -61,6 +61,8 @@ eyJhbGciOiJSUzI1NiIsImtpZCI6IjFOVm9YVkl6ZHlXOWJjZDlzQTR4SGZWaUpuQl9Pd1BsdlJydUpP
 
 # Эксперименты:
 
+![alt text](https://github.com/sdgorkov/sbersynapserzd/blob/main/Screenshot%202021-02-17%20at%2009.23.31.png?raw=true)
+
 ## SberSynapse Простой сервис и его версии:
 
 
